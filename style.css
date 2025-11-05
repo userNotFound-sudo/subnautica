@@ -1,0 +1,15 @@
+img {
+    width: 200px;
+}
+
+
+body {
+    text-align: center;
+    font-family: 'Times New Roman';
+    background-image: url("https://wildplanetfoods.com/cdn/shop/articles/fishcircle_2000x952_eab80516-815f-4ee8-87a2-5a071476868d_768x.webp?v=1653509195");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: rgb(0, 38, 253);
+}
